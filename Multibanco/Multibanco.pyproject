@@ -1,0 +1,21 @@
+{
+    "files": [
+        "caixaMultibanco.py",
+        "caixaMultibanco.ui",
+        "files/ConsultarIBAN.csv",
+        "files/ConsultarSaldo.csv",
+        "imagens/Marcar Código.png",
+        "imagens/consultas.png",
+        "imagens/green_arrow.png",
+        "imagens/green_arrowR .png",
+        "imagens/introduzaMontante.png",
+        "imagens/menuInicial.png",
+        "imagens/multibanco.jpg",
+        "imagens/multibanco1.png",
+        "imagens/novoCodigo.png",
+        "imagens/pagamentos.png",
+        "introduzaMontante.ui",
+        "main.py",
+        "ui_caixaMultibanco.py"
+    ]
+}
